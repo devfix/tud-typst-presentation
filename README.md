@@ -1,7 +1,7 @@
 # tud-typst-presentation
 A typst presentation template based on the corporate design of Dresden University of Technology.
 
-The compile example PDF can be viewed here: [example/main.pdf](https://github.com/devfix/tud-typst-presentation/blob/main/example/main.pdf)
+The compiled example PDF can be viewed here: [example/main.pdf](https://github.com/devfix/tud-typst-presentation/blob/main/example/main.pdf)
 
 ![preview.png](https://raw.githubusercontent.com/devfix/tud-typst-presentation/refs/heads/main/example/preview.png "preview.png")
 
