@@ -1,5 +1,4 @@
 #import "tud-typst-presentation/template.typ": *
-#import "@preview/cetz:0.3.4"
 
 #show: tud-slides.with(
   title: "My Presentation",
